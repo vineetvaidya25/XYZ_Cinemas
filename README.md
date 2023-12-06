@@ -59,6 +59,10 @@ If there is payment error
 - Check your payment methods
 
 - Contact our system if there is an error while paying for tickets.
+## Additional Info
+Things prohibited :-
+- Sharp objects
+- Outside Food
 ## Contact
 For any other queries contact us via email:
 support@myxyzcinema.com
